@@ -1,0 +1,70 @@
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll.config
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.pdb
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.AssemblyReference.cache
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.cache
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.lref
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\Sample\DynamicGridSampleControlDefaultStyle.baml
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.g.resources
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.Properties.Resources.resources
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.GenerateResource.cache
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.CoreCompileInputs.cache
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.dll
+C:\Users\Наташа\Downloads\DynamicGrid\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.pdb
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll.config
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.pdb
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.AssemblyReference.cache
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.cache
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.lref
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\Sample\DynamicGridSampleControlDefaultStyle.baml
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.g.resources
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.Properties.Resources.resources
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.GenerateResource.cache
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.CoreCompileInputs.cache
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.dll
+D:\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.pdb
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll.config
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.pdb
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.AssemblyReference.cache
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.cache
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.lref
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\Sample\DynamicGridSampleControlDefaultStyle.baml
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.g.resources
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.Properties.Resources.resources
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.GenerateResource.cache
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.CoreCompileInputs.cache
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.dll
+C:\Users\iva01\Downloads\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.pdb
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll.config
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.pdb
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.AssemblyReference.cache
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.cache
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.lref
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\Sample\DynamicGridSampleControlDefaultStyle.baml
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.g.resources
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.Properties.Resources.resources
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.GenerateResource.cache
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.CoreCompileInputs.cache
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.dll
+D:\WpfApp1(2)\WpfApp1 (2)\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.pdb
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll.config
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.dll
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\bin\Debug\APE.WPF.Controls.DynamicGrid.pdb
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.cache
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid_MarkupCompile.lref
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\Sample\DynamicGridSampleControlDefaultStyle.baml
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.g.resources
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.Properties.Resources.resources
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.GenerateResource.cache
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.dll
+C:\Users\Пользователь\Downloads\Telegram Desktop\WpfApp1\WpfApp1\APE.WPF.Controls.DynamicGrid\obj\Debug\APE.WPF.Controls.DynamicGrid.pdb
