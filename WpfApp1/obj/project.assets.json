@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "APE.WPF.Controls.DynamicGrid/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/APE.WPF.Controls.DynamicGrid.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APE.WPF.Controls.DynamicGrid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APE.WPF.Controls.DynamicGrid/1.0.0": {
+      "type": "project",
+      "path": "../APE.WPF.Controls.DynamicGrid/APE.WPF.Controls.DynamicGrid.csproj",
+      "msbuildProject": "../APE.WPF.Controls.DynamicGrid/APE.WPF.Controls.DynamicGrid.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "APE.WPF.Controls.DynamicGrid >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\iva01\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\iva01\\Downloads\\Telegram Desktop\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectName": "WpfApp1",
+      "projectPath": "C:\\Users\\iva01\\Downloads\\Telegram Desktop\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\iva01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iva01\\Downloads\\Telegram Desktop\\WpfApp1\\WpfApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\iva01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\iva01\\Downloads\\Telegram Desktop\\WpfApp1\\APE.WPF.Controls.DynamicGrid\\APE.WPF.Controls.DynamicGrid.csproj": {
+              "projectPath": "C:\\Users\\iva01\\Downloads\\Telegram Desktop\\WpfApp1\\APE.WPF.Controls.DynamicGrid\\APE.WPF.Controls.DynamicGrid.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

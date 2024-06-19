@@ -1,0 +1,101 @@
+﻿<Page x:Class="WpfApp1.Manual_filling"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="892" d:DesignWidth="1291"
+      Title="Manual_filling">
+    <Page.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="10" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background ="White" Width="1291" Height="892" RenderTransformOrigin="0.498,0.484" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Border BorderThickness="1" CornerRadius="30,30,30,30" Margin="216,44,215,759" BorderBrush="#FFDCDFF9" Background="#FFD9D9D9" Width="860" Height="89">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Заполнение матрицы" VerticalAlignment="Top" Margin="0,12,0,0" Width="548" Height="59" FontSize="48" TextAlignment="Center"/>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="30,30,30,30" Margin="216,44,215,759" BorderBrush="#FFDCDFF9" Background="#FFD9D9D9" Width="860" Height="89">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Заполнение матрицы" VerticalAlignment="Top" Margin="0,12,0,0" Width="548" Height="59" FontSize="48" TextAlignment="Center"/>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="30,30,30,30" Margin="52,282,714,520" BorderBrush="#FFDCDFF9" Background="#FFC4C9F6" Height="89">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,12,0,0" Width="468" Height="59" FontSize="48" TextAlignment="Center"><Run Language="ru-ru" Text="Введите координаты"/><LineBreak/><Run Language="ru-ru"/></TextBlock>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="30,30,30,30" Margin="52,523,714,280" BorderBrush="#FFDCDFF9" Background="#FFC4C9F6" Height="89" Width="522">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,12,0,0" Width="468" Height="59" FontSize="48" TextAlignment="Center"><Run Text="Введите "/><Run Language="ru-ru" Text="значение"/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run/></TextBlock>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="50,50,50,50" Margin="646,523,121,280" BorderBrush="#FFDCDFF9" Background="#FFC4C9F6" Height="89">
+            <TextBox x:Name="textbox3" TextWrapping="Wrap" Margin="49,9,82,9" Background="{x:Null}" FontSize="48" BorderThickness="0,0,0,0"/>
+        </Border>
+        <Border x:Name="border1" BorderThickness="1" CornerRadius="50,50,50,50" Margin="908,238,148,565" BorderBrush="#FFDCDFF9" Background="#FFC4C9F6" Height="89">
+            <TextBox x:Name="textbox1" TextWrapping="Wrap" Margin="39,9,34,9" Background="{x:Null}" FontSize="48" BorderThickness="0,0,0,0" TextChanged="textbox1_TextChanged"/>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="50,50,50,50" Margin="908,357,148,446" BorderBrush="#FFDCDFF9" Background="#FFC4C9F6" Height="89">
+            <TextBox x:Name="textbox2" TextWrapping="Wrap" Margin="36,9,28,9" Background="{x:Null}" FontSize="48" BorderThickness="0,0,0,0" TextChanged="textbox2_TextChanged"/>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="90,90,90,90" Margin="796,252,435,580" BorderBrush="#FF7F7FDD" Background="#FF7F7FDD" Height="60" Width="60">
+            <Image Margin="8,2,8,2" Source="/Resources/letter-i-2.png" Stretch="Fill"/>
+        </Border>
+        <Border BorderThickness="1" CornerRadius="90,90,90,90" Margin="793,372,438,460" BorderBrush="#FF7F7FDD" Background="#FF7F7FDD" Height="60" Width="60">
+            <Image Margin="0,0,-1,-1" Source="/Resources/free-icon-letter-j-5119056-2.png" Stretch="Fill"/>
+        </Border>
+        <Button Style="{DynamicResource ButtonStyle1}" Content="Выход" HorizontalAlignment="Left" Height="94" Margin="135,744,0,0" VerticalAlignment="Top" Width="442" Background="#FF3742FA" BorderThickness="0,0,0,0" Foreground="White" FontSize="35.5" Click="Button_Click_1"/>
+        <Button Style="{DynamicResource ButtonStyle1}" Content="Ввести" HorizontalAlignment="Left" Height="94" Margin="729,744,0,0" VerticalAlignment="Top" Width="441" Background="#FF3742FA" BorderThickness="0,0,0,0" Foreground="White" FontSize="35.5" Click="Button_Click"/>
+        <Rectangle x:Name="Block" Visibility ="Hidden" RadiusX="20" RadiusY="20" Fill ="#FFEF6874" Grid.Column="1" HorizontalAlignment="Left" Height="63" Margin="40,784,0,0" Stroke="LightGray" VerticalAlignment="Top" Width="1191" RenderTransformOrigin="0.51,0.5" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name ="textblock" Visibility="Hidden" Grid.Column="1"  HorizontalAlignment="Left" Margin="65,794,0,0" Text="TextBlock" Height="55" Width="1116" FontFamily="Microsoft YaHei Light" FontSize="30" TextWrapping="Wrap" VerticalAlignment="Top" Grid.ColumnSpan="2" Foreground="White"/>
+    </Grid>
+</Page>

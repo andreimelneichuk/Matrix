@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\arrow-right.png" />
+    <None Remove="Resources\arrow-right_90942.png" />
+    <None Remove="Resources\close %282%29.png" />
+    <None Remove="Resources\close-2-2.png" />
+    <None Remove="Resources\close.png" />
+    <None Remove="Resources\equal 1.png" />
+    <None Remove="Resources\free-icon-letter-j-5119056-2.png" />
+    <None Remove="Resources\free-icon-round-61496 1.png" />
+    <None Remove="Resources\Group 97.png" />
+    <None Remove="Resources\icon _folder open_.png" />
+    <None Remove="Resources\Image1.bmp" />
+    <None Remove="Resources\letter-i-2.png" />
+    <None Remove="Resources\seo-social-web-network-internet_319_icon-icons.com_61491.png" />
+    <None Remove="Resources\🦆 icon _close circle_.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APE.WPF.Controls.DynamicGrid\APE.WPF.Controls.DynamicGrid.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\arrow-right.png" />
+    <Resource Include="Resources\arrow-right_90942.png" />
+    <Resource Include="Resources\close (2).png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\close-2-2.png" />
+    <Resource Include="Resources\close.png" />
+    <Resource Include="Resources\equal 1.png" />
+    <Resource Include="Resources\free-icon-letter-j-5119056-2.png" />
+    <Resource Include="Resources\free-icon-round-61496 1.png" />
+    <Resource Include="Resources\Group 97.png" />
+    <Resource Include="Resources\icon _folder open_.png" />
+    <Resource Include="Resources\Image1.bmp" />
+    <Resource Include="Resources\letter-i-2.png" />
+    <Resource Include="Resources\seo-social-web-network-internet_319_icon-icons.com_61491.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\🦆 icon _close circle_.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Fillingoptions.xaml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
+</Project>
