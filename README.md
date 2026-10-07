@@ -22,3 +22,5 @@ dotnet build WpfApp1.sln
 ```
 
 Либо откройте `WpfApp1.sln` в Visual Studio и запустите проект `WpfApp1`.
+
+Решение собирает проект из каталога `WpfApp1/`. Файлы `.xaml`/`.cs` в корне репозитория — отдельная, более старая копия страниц без `Filling_Matrix.cs` и `Additionnsl_Operations.cs`.
